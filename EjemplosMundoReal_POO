@@ -96,7 +96,7 @@ if __name__ == "__main__":
     # # Mostrar libros disponibles
     biblioteca.mostrar_libros()
 
-    # # Crear un usuario (tu nombre como ejemplo)
+    # # Crear un usuario (nombre como ejemplo)
     usuario1 = Usuario("María Beltrán", "001")
 
     # # Usuario toma un libro prestado
