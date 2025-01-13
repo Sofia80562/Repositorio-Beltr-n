@@ -1,0 +1,113 @@
+# Clase Libro
+class Libro:
+    # Constructor: define los atributos del libro
+    def __init__(self, titulo, autor, isbn):
+        self.titulo = titulo  # Título del libro
+        self.autor = autor    # Autor del libro
+        self.isbn = isbn      # Código ISBN del libro
+        self.disponible = True  # Por defecto, el libro está disponible
+
+    # Método para prestar el libro
+    def prestar(self):
+        if self.disponible:  # Solo se puede prestar si está disponible
+            self.disponible = False
+            return True
+        return False  # Si no está disponible, devuelve False
+
+    # Método para devolver el libro
+    def devolver(self):
+        self.disponible = True  # Marca el libro como disponible
+
+    # Representación en texto del libro
+    def __str__(self):
+        estado = "Disponible" if self.disponible else "Prestado"
+        return f"{self.titulo} por {self.autor} (ISBN: {self.isbn}) - {estado}"
+
+
+# Clase Usuario
+class Usuario:
+    # Constructor: define los atributos del usuario
+    def __init__(self, nombre, identificacion):
+        self.nombre = nombre  # Nombre del usuario
+        self.identificacion = identificacion  # ID único del usuario
+        self.libros_prestados = []  # Lista de libros que ha tomado prestados
+
+    # Método para tomar un libro prestado
+    def tomar_prestado(self, libro):
+        if libro.prestar():  # Intenta prestar el libro
+            self.libros_prestados.append(libro)  # Agrega el libro a la lista de libros prestados
+            print(f"{self.nombre} ha tomado prestado el libro: {libro.titulo}")
+        else:
+            print(f"El libro '{libro.titulo}' no está disponible.")
+
+    # Método para devolver un libro
+    def devolver_libro(self, libro):
+        if libro in self.libros_prestados:  # Verifica que el libro esté en la lista de prestados
+            libro.devolver()  # Cambia el estado del libro a disponible
+            self.libros_prestados.remove(libro)  # Lo elimina de la lista de libros prestados
+            print(f"{self.nombre} ha devuelto el libro: {libro.titulo}")
+        else:
+            print(f"{self.nombre} no tiene el libro '{libro.titulo}' prestado.")
+
+    # Representación en texto del usuario
+    def __str__(self):
+        libros = ", ".join([libro.titulo for libro in self.libros_prestados]) or "Ninguno"
+        return f"Usuario: {self.nombre}, ID: {self.identificacion}, Libros prestados: {libros}"
+
+
+# Clase Biblioteca
+class Biblioteca:
+    # Constructor: define los atributos de la biblioteca
+    def __init__(self, nombre):
+        self.nombre = nombre  # Nombre de la biblioteca
+        self.libros = []  # Lista de libros disponibles en la biblioteca
+
+    # Método para agregar un libro a la biblioteca
+    def agregar_libro(self, libro):
+        self.libros.append(libro)  # Agrega el libro a la lista
+        print(f"Se ha agregado el libro: {libro.titulo}")
+
+    # Método para mostrar todos los libros
+    def mostrar_libros(self):
+        print(f"Libros en la biblioteca '{self.nombre}':")
+        for libro in self.libros:  # Recorre la lista de libros y los imprime
+            print(libro)
+
+    # Representación en texto de la biblioteca
+    def __str__(self):
+        return f"Biblioteca: {self.nombre}, Total de libros: {len(self.libros)}"
+
+
+# Bloque principal: Aquí demostramos cómo interactúan las clases
+if __name__ == "__main__":
+    # # Crear la biblioteca
+    biblioteca = Biblioteca("Biblioteca Central")
+
+    # # Crear libros
+    libro1 = Libro("1984", "George Orwell", "123456789")
+    libro2 = Libro("Cien Años de Soledad", "Gabriel García Márquez", "987654321")
+    libro3 = Libro("El Principito", "Antoine de Saint-Exupéry", "111213141")
+
+    # # Agregar libros a la biblioteca
+    biblioteca.agregar_libro(libro1)
+    biblioteca.agregar_libro(libro2)
+    biblioteca.agregar_libro(libro3)
+
+    # # Mostrar libros disponibles
+    biblioteca.mostrar_libros()
+
+    # # Crear un usuario (tu nombre como ejemplo)
+    usuario1 = Usuario("María Beltrán", "001")
+
+    # # Usuario toma un libro prestado
+    usuario1.tomar_prestado(libro1)
+    usuario1.tomar_prestado(libro2)
+
+    # # Mostrar estado del usuario y libros
+    print(usuario1)
+    biblioteca.mostrar_libros()
+
+    # # Usuario devuelve un libro
+    usuario1.devolver_libro(libro1)
+    print(usuario1)
+    biblioteca.mostrar_libros()
