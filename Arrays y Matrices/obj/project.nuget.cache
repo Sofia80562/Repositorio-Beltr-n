@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t005QtGhpps=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\.dotnet\\Arrays y Matrices\\Arrays y Matrices\\Arrays y Matrices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.5\\microsoft.netcore.app.host.win-x64.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

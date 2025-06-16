@@ -1,0 +1,14 @@
+C:\Users\HP\.dotnet\Arrays y Matrices\Arrays y Matrices\bin\Debug\net9.0\Arrays y Matrices.exe
+C:\Users\HP\.dotnet\Arrays y Matrices\Arrays y Matrices\bin\Debug\net9.0\Arrays y Matrices.deps.json
+C:\Users\HP\.dotnet\Arrays y Matrices\Arrays y Matrices\bin\Debug\net9.0\Arrays y Matrices.runtimeconfig.json
+C:\Users\HP\.dotnet\Arrays y Matrices\Arrays y Matrices\bin\Debug\net9.0\Arrays y Matrices.dll
+C:\Users\HP\.dotnet\Arrays y Matrices\Arrays y Matrices\bin\Debug\net9.0\Arrays y Matrices.pdb
+C:\Users\HP\.dotnet\Arrays y Matrices\Arrays y Matrices\obj\Debug\net9.0\Arrays y Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\.dotnet\Arrays y Matrices\Arrays y Matrices\obj\Debug\net9.0\Arrays y Matrices.AssemblyInfoInputs.cache
+C:\Users\HP\.dotnet\Arrays y Matrices\Arrays y Matrices\obj\Debug\net9.0\Arrays y Matrices.AssemblyInfo.cs
+C:\Users\HP\.dotnet\Arrays y Matrices\Arrays y Matrices\obj\Debug\net9.0\Arrays y Matrices.csproj.CoreCompileInputs.cache
+C:\Users\HP\.dotnet\Arrays y Matrices\Arrays y Matrices\obj\Debug\net9.0\Arrays y Matrices.dll
+C:\Users\HP\.dotnet\Arrays y Matrices\Arrays y Matrices\obj\Debug\net9.0\refint\Arrays y Matrices.dll
+C:\Users\HP\.dotnet\Arrays y Matrices\Arrays y Matrices\obj\Debug\net9.0\Arrays y Matrices.pdb
+C:\Users\HP\.dotnet\Arrays y Matrices\Arrays y Matrices\obj\Debug\net9.0\Arrays y Matrices.genruntimeconfig.cache
+C:\Users\HP\.dotnet\Arrays y Matrices\Arrays y Matrices\obj\Debug\net9.0\ref\Arrays y Matrices.dll
