@@ -1,0 +1,14 @@
+C:\Users\HP\Downloads\Sistema de turnos\Sistema de turnos\bin\Debug\net9.0\Sistema de turnos.exe
+C:\Users\HP\Downloads\Sistema de turnos\Sistema de turnos\bin\Debug\net9.0\Sistema de turnos.deps.json
+C:\Users\HP\Downloads\Sistema de turnos\Sistema de turnos\bin\Debug\net9.0\Sistema de turnos.runtimeconfig.json
+C:\Users\HP\Downloads\Sistema de turnos\Sistema de turnos\bin\Debug\net9.0\Sistema de turnos.dll
+C:\Users\HP\Downloads\Sistema de turnos\Sistema de turnos\bin\Debug\net9.0\Sistema de turnos.pdb
+C:\Users\HP\Downloads\Sistema de turnos\Sistema de turnos\obj\Debug\net9.0\Sistema de turnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Sistema de turnos\Sistema de turnos\obj\Debug\net9.0\Sistema de turnos.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Sistema de turnos\Sistema de turnos\obj\Debug\net9.0\Sistema de turnos.AssemblyInfo.cs
+C:\Users\HP\Downloads\Sistema de turnos\Sistema de turnos\obj\Debug\net9.0\Sistema de turnos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Sistema de turnos\Sistema de turnos\obj\Debug\net9.0\Sistema de turnos.dll
+C:\Users\HP\Downloads\Sistema de turnos\Sistema de turnos\obj\Debug\net9.0\refint\Sistema de turnos.dll
+C:\Users\HP\Downloads\Sistema de turnos\Sistema de turnos\obj\Debug\net9.0\Sistema de turnos.pdb
+C:\Users\HP\Downloads\Sistema de turnos\Sistema de turnos\obj\Debug\net9.0\Sistema de turnos.genruntimeconfig.cache
+C:\Users\HP\Downloads\Sistema de turnos\Sistema de turnos\obj\Debug\net9.0\ref\Sistema de turnos.dll
