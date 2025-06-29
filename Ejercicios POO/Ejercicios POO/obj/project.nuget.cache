@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ty72SDiQRyA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Downloads\\Ejercicios POO\\Ejercicios POO\\Ejercicios POO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.5\\microsoft.netcore.app.host.win-x64.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
