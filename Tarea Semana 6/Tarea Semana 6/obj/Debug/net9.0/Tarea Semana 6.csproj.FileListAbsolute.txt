@@ -1,0 +1,14 @@
+C:\Users\HP\Downloads\Tarea Semana 6\Tarea Semana 6\obj\Debug\net9.0\Tarea Semana 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Tarea Semana 6\Tarea Semana 6\obj\Debug\net9.0\Tarea Semana 6.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Tarea Semana 6\Tarea Semana 6\obj\Debug\net9.0\Tarea Semana 6.AssemblyInfo.cs
+C:\Users\HP\Downloads\Tarea Semana 6\Tarea Semana 6\obj\Debug\net9.0\Tarea Semana 6.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Tarea Semana 6\Tarea Semana 6\bin\Debug\net9.0\Tarea Semana 6.exe
+C:\Users\HP\Downloads\Tarea Semana 6\Tarea Semana 6\bin\Debug\net9.0\Tarea Semana 6.deps.json
+C:\Users\HP\Downloads\Tarea Semana 6\Tarea Semana 6\bin\Debug\net9.0\Tarea Semana 6.runtimeconfig.json
+C:\Users\HP\Downloads\Tarea Semana 6\Tarea Semana 6\bin\Debug\net9.0\Tarea Semana 6.dll
+C:\Users\HP\Downloads\Tarea Semana 6\Tarea Semana 6\bin\Debug\net9.0\Tarea Semana 6.pdb
+C:\Users\HP\Downloads\Tarea Semana 6\Tarea Semana 6\obj\Debug\net9.0\Tarea Semana 6.dll
+C:\Users\HP\Downloads\Tarea Semana 6\Tarea Semana 6\obj\Debug\net9.0\refint\Tarea Semana 6.dll
+C:\Users\HP\Downloads\Tarea Semana 6\Tarea Semana 6\obj\Debug\net9.0\Tarea Semana 6.pdb
+C:\Users\HP\Downloads\Tarea Semana 6\Tarea Semana 6\obj\Debug\net9.0\Tarea Semana 6.genruntimeconfig.cache
+C:\Users\HP\Downloads\Tarea Semana 6\Tarea Semana 6\obj\Debug\net9.0\ref\Tarea Semana 6.dll
