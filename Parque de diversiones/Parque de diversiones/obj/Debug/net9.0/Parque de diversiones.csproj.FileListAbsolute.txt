@@ -1,0 +1,14 @@
+C:\Users\HP\Downloads\Parque de diversiones\Parque de diversiones\bin\Debug\net9.0\Parque de diversiones.exe
+C:\Users\HP\Downloads\Parque de diversiones\Parque de diversiones\bin\Debug\net9.0\Parque de diversiones.deps.json
+C:\Users\HP\Downloads\Parque de diversiones\Parque de diversiones\bin\Debug\net9.0\Parque de diversiones.runtimeconfig.json
+C:\Users\HP\Downloads\Parque de diversiones\Parque de diversiones\bin\Debug\net9.0\Parque de diversiones.dll
+C:\Users\HP\Downloads\Parque de diversiones\Parque de diversiones\bin\Debug\net9.0\Parque de diversiones.pdb
+C:\Users\HP\Downloads\Parque de diversiones\Parque de diversiones\obj\Debug\net9.0\Parque de diversiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Parque de diversiones\Parque de diversiones\obj\Debug\net9.0\Parque de diversiones.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Parque de diversiones\Parque de diversiones\obj\Debug\net9.0\Parque de diversiones.AssemblyInfo.cs
+C:\Users\HP\Downloads\Parque de diversiones\Parque de diversiones\obj\Debug\net9.0\Parque de diversiones.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Parque de diversiones\Parque de diversiones\obj\Debug\net9.0\Parque de diversiones.dll
+C:\Users\HP\Downloads\Parque de diversiones\Parque de diversiones\obj\Debug\net9.0\refint\Parque de diversiones.dll
+C:\Users\HP\Downloads\Parque de diversiones\Parque de diversiones\obj\Debug\net9.0\Parque de diversiones.pdb
+C:\Users\HP\Downloads\Parque de diversiones\Parque de diversiones\obj\Debug\net9.0\Parque de diversiones.genruntimeconfig.cache
+C:\Users\HP\Downloads\Parque de diversiones\Parque de diversiones\obj\Debug\net9.0\ref\Parque de diversiones.dll
