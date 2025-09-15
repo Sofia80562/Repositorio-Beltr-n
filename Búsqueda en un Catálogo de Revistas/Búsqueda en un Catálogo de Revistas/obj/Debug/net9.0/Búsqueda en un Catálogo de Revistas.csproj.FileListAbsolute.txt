@@ -1,0 +1,14 @@
+C:\Users\HP\Downloads\Búsqueda en un Catálogo de Revistas\Búsqueda en un Catálogo de Revistas\bin\Debug\net9.0\Búsqueda en un Catálogo de Revistas.exe
+C:\Users\HP\Downloads\Búsqueda en un Catálogo de Revistas\Búsqueda en un Catálogo de Revistas\bin\Debug\net9.0\Búsqueda en un Catálogo de Revistas.deps.json
+C:\Users\HP\Downloads\Búsqueda en un Catálogo de Revistas\Búsqueda en un Catálogo de Revistas\bin\Debug\net9.0\Búsqueda en un Catálogo de Revistas.runtimeconfig.json
+C:\Users\HP\Downloads\Búsqueda en un Catálogo de Revistas\Búsqueda en un Catálogo de Revistas\bin\Debug\net9.0\Búsqueda en un Catálogo de Revistas.dll
+C:\Users\HP\Downloads\Búsqueda en un Catálogo de Revistas\Búsqueda en un Catálogo de Revistas\bin\Debug\net9.0\Búsqueda en un Catálogo de Revistas.pdb
+C:\Users\HP\Downloads\Búsqueda en un Catálogo de Revistas\Búsqueda en un Catálogo de Revistas\obj\Debug\net9.0\Búsqueda en un Catálogo de Revistas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Búsqueda en un Catálogo de Revistas\Búsqueda en un Catálogo de Revistas\obj\Debug\net9.0\Búsqueda en un Catálogo de Revistas.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Búsqueda en un Catálogo de Revistas\Búsqueda en un Catálogo de Revistas\obj\Debug\net9.0\Búsqueda en un Catálogo de Revistas.AssemblyInfo.cs
+C:\Users\HP\Downloads\Búsqueda en un Catálogo de Revistas\Búsqueda en un Catálogo de Revistas\obj\Debug\net9.0\Búsqueda en un Catálogo de Revistas.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Búsqueda en un Catálogo de Revistas\Búsqueda en un Catálogo de Revistas\obj\Debug\net9.0\Búsqueda en un Catálogo de Revistas.dll
+C:\Users\HP\Downloads\Búsqueda en un Catálogo de Revistas\Búsqueda en un Catálogo de Revistas\obj\Debug\net9.0\refint\Búsqueda en un Catálogo de Revistas.dll
+C:\Users\HP\Downloads\Búsqueda en un Catálogo de Revistas\Búsqueda en un Catálogo de Revistas\obj\Debug\net9.0\Búsqueda en un Catálogo de Revistas.pdb
+C:\Users\HP\Downloads\Búsqueda en un Catálogo de Revistas\Búsqueda en un Catálogo de Revistas\obj\Debug\net9.0\Búsqueda en un Catálogo de Revistas.genruntimeconfig.cache
+C:\Users\HP\Downloads\Búsqueda en un Catálogo de Revistas\Búsqueda en un Catálogo de Revistas\obj\Debug\net9.0\ref\Búsqueda en un Catálogo de Revistas.dll
